@@ -3,6 +3,10 @@
 ![yyyhakuna's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yyyhakuna&layout=compact&hide_border=true&langs_count=10)
 
 
-- 🔭 I’m currently working on byteying
-- 🌱 I’m currently learning react sourcecode, flutter, 
-- 📫 How to reach me: yjx020714@gmail.com
+- 💻 frontend developer, Web3 Builder, 
+- 🇨🇳A junior majoring in big data at Yichun University in Jiangxi Province, China.
+- 🤟I love learning, basketball, traveling
+- 🔭 I have worked at Tencent, Lichuan, Biteagle🦅, and contributed code to different web3 projects
+- 👑 Many web3 Hackathons experience, second prize ETH Hong Kong
+- 📫 feel free to reach me: gmail: yjx020714@gmail.com. wechat:yjxdeli. tg:https://t.me/deliyjx.
+
